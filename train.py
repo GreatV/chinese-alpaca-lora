@@ -1,5 +1,5 @@
 import os
-os.environ["HF_HOME"]="/root/autodl-nas/huggingface_cache/"
+# os.environ["HF_HOME"]="/root/autodl-nas/huggingface_cache/"
 
 import torch
 import torch.nn as nn
